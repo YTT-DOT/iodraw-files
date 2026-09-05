@@ -35,13 +35,13 @@
         <mxCell id="KKNLgkMR6rqAMhiWRv4S-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;星期季节指数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKNLgkMR6rqAMhiWRv4S-8" value="28天基准水平" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KKNLgkMR6rqAMhiWRv4S-8" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;28天基准水平&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKNLgkMR6rqAMhiWRv4S-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="brIik9_kkW5emdEaYtf5-1" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;缺失值填充&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="brIik9_kkW5emdEaYtf5-1" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;缺失值填充&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=1;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="150" height="110" as="geometry">
             <mxRectangle x="180" y="100" width="110" height="50" as="alternateBounds" />
           </mxGeometry>
