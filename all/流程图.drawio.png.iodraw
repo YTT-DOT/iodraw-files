@@ -46,6 +46,9 @@
         <mxCell id="brIik9_kkW5emdEaYtf5-1" value="数据预处理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="180" y="100" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="brIik9_kkW5emdEaYtf5-3" value="缺失值填充&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="210" y="163" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
