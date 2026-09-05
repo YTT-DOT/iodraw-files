@@ -44,12 +44,12 @@
           <mxGeometry x="520" y="320" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="brIik9_kkW5emdEaYtf5-1" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;缺失值填充&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="160" height="120" as="geometry">
+          <mxGeometry x="180" y="100" width="150" height="110" as="geometry">
             <mxRectangle x="180" y="100" width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brIik9_kkW5emdEaYtf5-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;缺失值填充&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;节假日校正&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=宋体;" vertex="1" parent="brIik9_kkW5emdEaYtf5-1">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="brIik9_kkW5emdEaYtf5-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;节假日校正&lt;/font&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=宋体;" vertex="1" parent="brIik9_kkW5emdEaYtf5-1">
+          <mxGeometry y="50" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
