@@ -7,7 +7,7 @@
         <mxCell id="KKNLgkMR6rqAMhiWRv4S-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KKNLgkMR6rqAMhiWRv4S-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KKNLgkMR6rqAMhiWRv4S-2">
+        <mxCell id="KKNLgkMR6rqAMhiWRv4S-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KKNLgkMR6rqAMhiWRv4S-2" target="KKNLgkMR6rqAMhiWRv4S-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="350" as="sourcePoint" />
             <mxPoint x="400" y="340" as="targetPoint" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="KKNLgkMR6rqAMhiWRv4S-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKNLgkMR6rqAMhiWRv4S-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
