@@ -32,7 +32,7 @@
             <mxPoint x="460" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KKNLgkMR6rqAMhiWRv4S-7" value="星期季节指数" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KKNLgkMR6rqAMhiWRv4S-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;星期季节指数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KKNLgkMR6rqAMhiWRv4S-8" value="28天基准水平" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
