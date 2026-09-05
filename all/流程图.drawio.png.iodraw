@@ -43,11 +43,8 @@
         <mxCell id="KKNLgkMR6rqAMhiWRv4S-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="brIik9_kkW5emdEaYtf5-1" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="180" y="260" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="brIik9_kkW5emdEaYtf5-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=宋体;" vertex="1" parent="brIik9_kkW5emdEaYtf5-1">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="brIik9_kkW5emdEaYtf5-1" value="数据预处理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
